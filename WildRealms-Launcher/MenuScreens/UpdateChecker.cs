@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace WildRealms_Launcher
 {
-    public partial class Form1 : Form
+    public partial class UpdateChecker : Form
     {
-        public Form1()
+        public UpdateChecker()
         {
             InitializeComponent();
+        }
+
+        private void UpdateChecker_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
