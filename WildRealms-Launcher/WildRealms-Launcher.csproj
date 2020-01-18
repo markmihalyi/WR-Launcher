@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{204D9D18-D7D7-44C9-8380-F4CB6C8784BE}</ProjectGuid>
+    <ProjectGuid>{69FF6B76-69EE-4FDF-9D28-FB2F3CAFF80F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>WildRealms_Launcher</RootNamespace>
-    <AssemblyName>WildRealms_Launcher</AssemblyName>
+    <AssemblyName>WildRealms-Launcher</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
