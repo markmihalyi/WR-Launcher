@@ -5,10 +5,10 @@
 
 > A WildRealms kliens hivatalos launchere.
 
-- Belépés a weboldalon regisztrált adatokkal
 - Minimalizált design
 - Sok extra funkció
 - Verzióváltás (összes verzió)
+- Belépés a weboldalon regisztrált adatokkal
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
