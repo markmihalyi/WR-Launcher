@@ -18,7 +18,5 @@
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 - **[Apache 2.0 license](http://opensource.org/licenses/apache-license.php)**
 - Copyright 2020 © <a href="https://markiodevs.xyz" target="_blank">Markio Projects</a>.
