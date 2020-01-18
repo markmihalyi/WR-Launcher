@@ -5,6 +5,7 @@
 
 > A WildRealms kliens hivatalos launchere.
 
+- Belépés a weboldalon regisztrált adatokkal
 - Minimalizált design
 - Sok extra funkció
 - Verzióváltás (összes verzió)
