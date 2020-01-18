@@ -1,4 +1,4 @@
-<a href="https://markiodevs.xyz"><img src="https://avatars3.githubusercontent.com/u/52723363?s=460&v=4" title="FVCproductions" alt="Markio Projects"></a>
+<a href="https://markiodevs.xyz"><img src="https://i.imgur.com/Kb9saII.png" title="FVCproductions" alt="Markio Projects"></a>
 
 
 # WildRealms Launcher
@@ -17,5 +17,5 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[Apache license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
