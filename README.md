@@ -18,4 +18,4 @@
 ## License
 
 [![License](http://img.shields.io/:license-apache-red.svg?style=flat-square)](http://badges.mit-license.org) **[Apache License](https://opensource.org/licenses/Apache-2.0)**
-Copyright 2020 © <a href="https://markiodevs.xyz" target="_blank">Markio Projects</a>.
+-Copyright 2020 © <a href="https://markiodevs.xyz" target="_blank">Markio Projects</a>.
