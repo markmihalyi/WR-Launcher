@@ -1,4 +1,4 @@
-<a href="https://clans.markiodevs.xyz"><img src="https://i.imgur.com/Kb9saII.png" title="FVCproductions" alt="Markio Projects"></a>
+<a href="https://clans.markiodevs.xyz"><img src="https://i.imgur.com/Kb9saII.png" title="Markio Projects" alt="Markio Projects"></a>
 
 
 # WildRealms Launcher
@@ -12,7 +12,7 @@
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
 [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger)
-[![License](http://img.shields.io/:license-apache-red.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](http://img.shields.io/:license-apache-red.svg?style=flat-square)](https://github.com/markio-dev/WildRealms_Launcher/blob/master/LICENSE)
 
 ---
 
