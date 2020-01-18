@@ -18,5 +18,5 @@
 
 ## License
 
-- **[Apache 2.0 license](http://opensource.org/licenses/apache-license.php)**
+- **[Apache License](https://opensource.org/licenses/Apache-2.0)**
 - Copyright 2020 © <a href="https://markiodevs.xyz" target="_blank">Markio Projects</a>.
