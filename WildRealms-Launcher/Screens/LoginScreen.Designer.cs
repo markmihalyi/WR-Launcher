@@ -1,7 +1,6 @@
-﻿using System;
-namespace WildRealms_Launcher
+﻿namespace WildRealms_Launcher.Screens
 {
-    partial class UpdateChecker
+    partial class LoginScreen
     {
         /// <summary>
         /// Required designer variable.
@@ -29,22 +28,21 @@ namespace WildRealms_Launcher
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UpdateChecker));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginScreen));
             this.SuspendLayout();
             // 
-            // UpdateChecker
+            // LoginScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.ClientSize = new System.Drawing.Size(355, 87);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "UpdateChecker";
+            this.Name = "LoginScreen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Frissítések keresése...";
-            this.UseWaitCursor = true;
-            this.Load += new System.EventHandler(this.UpdateChecker_Load);
+            this.Text = "WildRealms Launcher - v1.0";
+            this.Load += new System.EventHandler(this.LoginScreen_Load);
             this.ResumeLayout(false);
 
         }
@@ -52,4 +50,3 @@ namespace WildRealms_Launcher
         #endregion
     }
 }
-

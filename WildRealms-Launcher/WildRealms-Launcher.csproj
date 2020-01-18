@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>LauncherStarter.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,15 +49,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MenuScreens\UpdateChecker.cs">
+    <Compile Include="LauncherStarter.cs" />
+    <Compile Include="Screens\LoginScreen.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MenuScreens\UpdateChecker.Designer.cs">
+    <Compile Include="Screens\LoginScreen.Designer.cs">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Screens\UpdateChecker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\UpdateChecker.Designer.cs">
       <DependentUpon>UpdateChecker.cs</DependentUpon>
     </Compile>
-    <Compile Include="Codes\UpdateChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="MenuScreens\UpdateChecker.resx">
+    <EmbeddedResource Include="Screens\LoginScreen.resx">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screens\UpdateChecker.resx">
       <DependentUpon>UpdateChecker.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -78,6 +90,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Codes\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

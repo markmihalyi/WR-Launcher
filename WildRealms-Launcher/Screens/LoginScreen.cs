@@ -8,16 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WildRealms_Launcher
+namespace WildRealms_Launcher.Screens
 {
-    public partial class UpdateChecker : Form
+    public partial class LoginScreen : Form
     {
-        public UpdateChecker()
+        public LoginScreen()
         {
             InitializeComponent();
         }
 
-        private void UpdateChecker_Load(object sender, EventArgs e)
+        private void LoginScreen_Load(object sender, EventArgs e)
         {
 
         }
