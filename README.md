@@ -19,4 +19,4 @@
 
 ## License
 
-> Copyright 2020 © <a href="https://markiodevs.xyz" target="_blank">MarkioProjects</a>.
+> Copyright 2020 © <a href="https://markmihalyi.hu" target="_blank">Márk Mihályi</a>.
