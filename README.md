@@ -3,7 +3,9 @@
 
 # WildRealms Launcher
 
-> !! A PROJEKT EZEN RÉSZÉNEK FEJLESZTÉSE FÉLBE LETT HAGYVA, PRIVÁT MÓDON FOLYTATOM A FEJLESZTÉSÉT. !!
+> !! A PROJEKT FEJLESZTÉSE FÉLBE LETT HAGYVA !!
+
+
 > A WildRealms kliens hivatalos launchere.
 
 - Minimalizált design
